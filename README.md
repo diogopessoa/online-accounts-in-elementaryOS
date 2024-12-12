@@ -22,7 +22,7 @@ Exec=env XDG_CURRENT_DESKTOP=GNOME gnome-control-center
 The currently supported cloud providers are as follows:
 
 - Google: Google Drive, Google Calendar e Gmail.
-- Microsoft: emails, calendars and contacts through Exchange.
+- Microsoft: OneDrive, email, calendars through Exchange.
 - Owncloud: files, calendar and contacts.
 - Facebook
 
@@ -33,10 +33,15 @@ Just follow the steps normally.
 
 To use OneDrive you must choose the "Microsoft 365" option. Now **ignore all** the text fields and options in the dialog box and click "**Sign in...**"
 
-Now your online accounts can be accessed directly in the Pantheon environment, facilitating access to files, calendars and contacts from different services in one place.
 
 ## Finished!
+Now your online accounts can be accessed directly in the Pantheon environment, facilitating access to files, calendars and contacts from different services in one place.
 
+- Screenshot: Synchronized accounts Calendar and Files with Google
+![Screenshot: Synchronized accounts calendar and google](https://github.com/diogopessoa/online-accounts-in-elementaryOS/blob/main/images/accounts-sync1.png)
+
+- Screenshot: Gmail account in Mail with 2FA
+![Screenshot: Mail with 2FA](https://github.com/diogopessoa/online-accounts-in-elementaryOS/blob/main/images/mail-1.png)
 
 ## Thanks to
 - https://gitlab.gnome.org/GNOME/gnome-online-accounts/
